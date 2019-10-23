@@ -1,0 +1,1 @@
+Criar o front-end do sistema desenvolvido no curso de MySQL e NodeJS, que está localizado na pasta "Atividade". Desenvolver todos os módulos para o sistema: main, detalhes, criar, atualizar e deletar.
