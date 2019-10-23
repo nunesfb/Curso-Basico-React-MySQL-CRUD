@@ -1,0 +1,41 @@
+.usuario-list{
+    margin: 20px auto 0;
+    padding: 0 20px;
+    max-width: 700px;
+}
+
+.usuario-list article{
+    background: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.usuario-list article p{
+    font-size: 16px;
+    color: dimgray;
+    margin-top: 5px;
+    line-height: 24px;
+}
+
+.usuario-list article a{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.usuario-list article a:hover{
+    background: blue;
+    color: #fff;
+}
+

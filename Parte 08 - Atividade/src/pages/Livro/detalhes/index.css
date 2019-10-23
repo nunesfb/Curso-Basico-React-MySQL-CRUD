@@ -1,0 +1,15 @@
+.livro-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.livro-info h1 {
+    font-size: 32px;
+    color: #ddd;
+    line-height: 24px;
+    margin-top: 5px;
+}
