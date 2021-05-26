@@ -20,7 +20,7 @@
 
 ## ✋🏻 Pré-requisitos
 
-- [Node.js](https://nodejs.org/en/)
+- [React.js](https://pt-br.reactjs.org/)
 - [Yarn](https://classic.yarnpkg.com/lang/en/)
 
 ## 🔥 Instalação e execução
