@@ -1,29 +1,31 @@
+<p align="center">
+  <img alt="LogoTecEdu4All" src="https://yt3.googleusercontent.com/dmw2l1Yz24lOBeG175P6ovEnNdNI3zNVoMiUMRNyqE8o_ECDsvU1ttPNRWCB_VAXZlOcLKsiYKQ=s176-c-k-c0x00ffffff-no-rj" width="120px" />
+</p>
+
 <h1 align="center">
-  <img alt="LogoTecEdu4All" src="http://materiaisaulas.tecedu4all.com.br/canal/logo.png" width="120px" />
+  Curso Básico de ReactJS e MongoDB - CRUD
 </h1>
 
-<h3 align="center">
-  Curso de ReactJS com MySQL
-</h3>
+<p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
 
-<p align="center">Estes códigos pertencem à playlist de vídeos do canal TecEdu4All no YouTube</p> 
+<p align="justify">Se gostou do repositório, deixe sua estrela ⭐ </p> 
 
+<br/>
 
 ## 👨🏼‍💻 Professor
 
-- [Felipe Becker Nunes](https://github.com/nunesfb)
+- [Felipe Becker Nunes](https://www.linkedin.com/in/felipe-becker-nunes-b561a576/)
 
-## 💻 Playlist
+## 💻 Playlist/Vídeo
 
 - [Curso de NodeJS com MySQL - Backend](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPcZ2vJFbND25QNFcXMnnwU&disable_polymer=true)
 - [Curso de Reactjs com MySQL - Frontend](https://www.youtube.com/playlist?list=PL2hDwB8DzXGOxIuijrYNrPrKcjQERQtbO)
 
 ## ✋🏻 Pré-requisitos
 
-- [React.js](https://pt-br.reactjs.org/)
-- [Yarn](https://classic.yarnpkg.com/lang/en/)
+- [Node.js](https://nodejs.org/en/)
 
-## 🔥 Instalação e execução
+## 🔥 Instruções de Instalação e Execução
 
 1. Faça um clone desse repositório;
 2. Entre em uma das pastas do repositório, por exemplo, `cd 01 - Criando o Projeto`;
@@ -31,9 +33,8 @@
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. 
+- Este projeto tem licença MIT. 
 
 ---
 
-[Se inscreva no canal para ver os vídeos deste código e muito mais!](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
-
+[Inscreva-se no canal para ver estes vídeos e muito mais!](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
