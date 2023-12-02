@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Curso Básico de ReactJS e MongoDB - CRUD
+  Curso Básico de ReactJS e MySQL - CRUD
 </h1>
 
 <p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
