@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="LogoTecEdu4All" src="https://yt3.googleusercontent.com/dmw2l1Yz24lOBeG175P6ovEnNdNI3zNVoMiUMRNyqE8o_ECDsvU1ttPNRWCB_VAXZlOcLKsiYKQ=s176-c-k-c0x00ffffff-no-rj" width="120px" />
-</p>
-
 <h1 align="center">
   Curso Básico de ReactJS e MySQL - CRUD
 </h1>
